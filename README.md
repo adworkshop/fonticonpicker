@@ -1,0 +1,1 @@
+# Fontawesome iconpicker widget package
